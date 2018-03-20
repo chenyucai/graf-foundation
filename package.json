@@ -1,6 +1,6 @@
 {
   "name": "graf-foundation",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "description": "a toolkit of web develop",
   "keywords": [
@@ -8,7 +8,7 @@
     "toolkit",
     "utils"
   ],
-  "main": "dist/graf-foundation.umd.js",
+  "main": "dist/graf-foundation.esm.js",
   "module": "dist/graf-foundation.esm.js",
   "files": [
     "dist",
@@ -27,7 +27,7 @@
   "dependencies": {},
   "peerDependencies": {
     "store": "^2.0.12",
-    "js-base64": "^2.4.3"
+    "js-base64": "^2.4.0"
   },
   "devDependencies": {
     "babel-core": "^6.22.1",
