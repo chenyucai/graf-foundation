@@ -2,7 +2,6 @@
 * graf-foundation v0.0.1
 * author: Nic Chan
 * https://github.com/chenyucai/graf-foundation.git
-* Released under the MIT License.
 */
 
 import store from 'store';
