@@ -3,6 +3,7 @@ import ArrayUtils from './utils/ArrayUtils'
 import DateUtils from './utils/DateUtils'
 import GeneralUtils from './utils/GeneralUtils'
 import JsonUtils from './utils/JsonUtils'
+import MatcherUtils from './utils/MatcherUtils'
 import ObjectUtils from './utils/ObjectUtils'
 import StorageUtils from './utils/StorageUtils'
 import Cookie from './libs/cookie'
@@ -17,6 +18,7 @@ export {
   DateUtils,
   GeneralUtils,
   JsonUtils,
+  MatcherUtils,
   ObjectUtils,
   StorageUtils,
   Cookie,
