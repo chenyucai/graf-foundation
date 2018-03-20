@@ -1,5 +1,5 @@
 /**
-* graf-foundation v0.0.1
+* graf-foundation v0.0.2
 * author: Nic Chan
 * https://github.com/chenyucai/graf-foundation.git
 */
