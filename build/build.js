@@ -11,7 +11,6 @@ const banner = `/**
 * graf-foundation v${version}
 * author: Nic Chan
 * https://github.com/chenyucai/graf-foundation.git
-* Released under the MIT License.
 */
 `
 const inputOptions = {

@@ -23,7 +23,7 @@
     "url": "git+https://github.com/chenyucai/graf-foundation.git"
   },
   "author": "Nic Chan",
-  "license": "MIT",
+  "license": "ISC",
   "dependencies": {},
   "peerDependencies": {
     "store": "^2.0.12",
